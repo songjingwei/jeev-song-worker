@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "jeev-song-playground-worker",
+	"name": "jeev-song-playgound-worker",
 	"compatibility_date": "2025-03-21",
 	"main": "./src/index.tsx",
 	"observability": {
